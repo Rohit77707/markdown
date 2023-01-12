@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color:darkgrey;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1, h2, h3, h4 , h5 , h6 {
+  font-weight: bold;
+}
+h1{
+ font-size: 36px;
+}
+h2{
+ font-size: 32px;
+}
+h3{
+  font-size:28;
+}
+
+h4{
+ font-size: 24px; 
+}
+h5{
+ font-size: 20px; 
+}
+h6{
+ font-size: 16px;  
+}
+a{
+  color: blue;
+  text-decoration: underline;
+}
